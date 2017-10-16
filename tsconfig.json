@@ -7,8 +7,13 @@
         "sourceMap": false
     },
     "files": [
-        "index.ts",
-        "mobs.ts",
-        "fields.ts"
+        "./src/fields.ts",
+        "./src/main.ts",
+        "./src/mob.ts",
+        "./src/tests.ts"
+    ],
+    "filesGlob": [
+      "**/*.ts",
+      "!node_modules/**"
     ]
 }

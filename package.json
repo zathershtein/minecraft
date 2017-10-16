@@ -1,11 +1,11 @@
 {
   "name": "minecraft",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/main.js",
   "scripts": {
-    "start": "node dist/index.js"
+    "start": "node dist/main.js"
   },
-  "author": "",
+  "author": "zathershtein",
   "license": "ISC",
   "description": ""
 }
